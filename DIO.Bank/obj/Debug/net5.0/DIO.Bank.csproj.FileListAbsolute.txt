@@ -1,0 +1,16 @@
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/obj/Debug/net5.0/DIO.Bank.csprojAssemblyReference.cache
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/obj/Debug/net5.0/DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/obj/Debug/net5.0/DIO.Bank.AssemblyInfoInputs.cache
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/obj/Debug/net5.0/DIO.Bank.AssemblyInfo.cs
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/obj/Debug/net5.0/DIO.Bank.csproj.CoreCompileInputs.cache
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/bin/Debug/net5.0/DIO.Bank
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/bin/Debug/net5.0/DIO.Bank.deps.json
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/bin/Debug/net5.0/DIO.Bank.runtimeconfig.json
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/bin/Debug/net5.0/DIO.Bank.runtimeconfig.dev.json
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/bin/Debug/net5.0/DIO.Bank.dll
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/bin/Debug/net5.0/ref/DIO.Bank.dll
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/bin/Debug/net5.0/DIO.Bank.pdb
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/obj/Debug/net5.0/DIO.Bank.dll
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/obj/Debug/net5.0/ref/DIO.Bank.dll
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/obj/Debug/net5.0/DIO.Bank.pdb
+/home/ygor/Documents/DIO - Projetos/TransferenciaBancaria/DIO.Bank/obj/Debug/net5.0/DIO.Bank.genruntimeconfig.cache
